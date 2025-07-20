@@ -1,0 +1,6 @@
+#gym[all]
+gym[classic_control]
+#pygame
+#mxnet-mkl==1.6.0
+numpy==1.23.1
+#tensorflow
